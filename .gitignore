@@ -3,7 +3,6 @@ venv/
 .venv/
 
 # Editor Configurations
-.vscode/
 .idea/
 
 # Python
@@ -45,3 +44,5 @@ settings.json
 build
 LLM
 lib
+config.bat
+node_modules
